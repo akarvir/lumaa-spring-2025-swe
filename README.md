@@ -1,5 +1,5 @@
 
-#taskmanager
+#taskmanager - Implemented in Javascript, not Typescript. Misread the tech stack
 
 Setting up the database:
 
